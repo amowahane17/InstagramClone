@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">InstagramClone</string>
+    <string name="title_home"></string>
+    <string name="title_search"></string>
+    <string name="title_notifications"></string>
+    <string name="title_reels" />
+    <string name="love" />
+    <string name="title_user" />
+    <string name="title_dashboard" />
+    <string name="dasd">dasd</string>
+</resources>
